@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecyclerViewOnly</string>
+
+    <string name="flag_name">Nama Bendera</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Indonesia</item>
+        <item>America</item>
+        <item>Rusia</item>
+        <item>China</item>
+        <item>Jepang</item>
+        <item>Korea Selatan</item>
+        <item>India</item>
+        <item>Argentina</item>
+        <item>Belanda</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
